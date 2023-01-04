@@ -6,10 +6,14 @@ module.exports = {
       {
         name: "Incomes",
         description: "Every type of incomes",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         name: "Outcomes",
         description: "Every type of outcomes",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
     ]);
   },
